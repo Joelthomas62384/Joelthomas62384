@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Joelthomas62384/Joelthomas62384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **self-taught Python developer** committed to building **scalable** and **user-friendly applications**.  
+With strong expertise in:
 
-Here are some ideas to get you started:
+- 🐍 Python, Django  
+- ⚛️ JavaScript, TypeScript, React  
+- 📨 Kafka, Redis, RabbitMQ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m confident in my ability to architect and develop almost anything as a developer.
+
+I specialize in modern architectures like:
+
+- 🏗️ MVT (Model-View-Template)  
+- 🧩 Microservices  
+- ⚡ Optimistic UI  
+
+These patterns enable me to craft applications that are **resilient**, **efficient**, and a joy to use.
+
+> I believe great products are born at the intersection of clean code, thoughtful design, and solid architecture.
