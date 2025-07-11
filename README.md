@@ -1,4 +1,3 @@
----
 
 ## 👋 About
 
@@ -6,7 +5,7 @@
 
 Driven by curiosity and a commitment to continuous learning, with a passion for transforming ideas into impactful software solutions.
 
----
+
 
 ### 💡 Technical Skills
 
