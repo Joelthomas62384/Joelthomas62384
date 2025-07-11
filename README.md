@@ -1,43 +1,44 @@
-## 👋 About Me
+---
 
-I’m a **self-taught Python developer** passionate about building **scalable** and **user-friendly applications**.
+## 👋 About
 
-My journey has been fueled by curiosity, persistence, and the love of turning ideas into real-world software.
+**Self-taught Python developer** with a strong focus on building **scalable**, **resilient**, and **user-friendly applications**.
+
+Driven by curiosity and a commitment to continuous learning, with a passion for transforming ideas into impactful software solutions.
 
 ---
 
-### 💡 What I Bring to the Table
+### 💡 Technical Skills
 
-- 🐍 **Languages & Frameworks:**  
+* 🐍 **Languages & Frameworks**
   Python, Django, JavaScript, TypeScript, React
 
-- 🛠️ **Databases:**  
-  - 📘 MySQL  
-  - 📗 PostgreSQL  
-  - 📙 MongoDB  
+* 🛠️ **Databases**
+  MySQL, PostgreSQL, MongoDB
 
-- ⚙️ **Messaging & Caching Systems:**  
+* ⚙️ **Messaging & Caching Systems**
   Kafka, Redis, RabbitMQ
 
-- 🧱 **Architectural Expertise:**  
-  - MVT (Model-View-Template)  
-  - Microservices  
-  - Optimistic UI (for snappy user experiences)
+* 🧱 **Architectural Experience**
+  MVT (Model-View-Template), Microservices, Optimistic UI
 
 ---
 
-### 🚀 Why Me?
+### 🚀 Core Principles
 
-I take pride in crafting applications that are:
+Focused on delivering applications that are:
 
-- 💪 Resilient  
-- ⚡ Performant  
-- 🎯 User-centric  
-- 🔧 Easy to maintain and scale  
+* 💪 Resilient
+* ⚡ High-performance
+* 🎯 User-centric
+* 🔧 Maintainable and scalable
 
-I approach every project with a problem-solving mindset and a strong emphasis on **clean architecture** and **developer experience**.
+Projects are approached with a strong emphasis on **clean architecture**, **developer experience**, and **problem-solving mindset**.
 
 ---
 
-> “I believe in building products that don’t just work — they feel good to use.”
+> Building software that not only works—but delivers a seamless and enjoyable experience.
+
+---
+
 
